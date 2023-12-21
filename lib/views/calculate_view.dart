@@ -43,7 +43,7 @@ class _CalculaterViewState extends State<CalculaterView> {
             height: 30,
           ),
           Text(
-            key: const Key("Result"),
+            key: const Key("Results"),
             z.toString(),
             style: const TextStyle(
               fontSize: 50,
